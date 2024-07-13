@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Rei dos Canoeiros IA: geração de histórias de pescador
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto "Rei dos Canoeiros IA" utiliza tecnologias de IA generativa para criar contos de pescador, inspirados pelo estilo e sabedoria do personagem de "O Velho e o Mar" de Enest Hemingway e pelo clássico homônimo da dupla de música serteneja Tião Carreiro & Pardinho. Cada história é ambientada em locais de pesca, explorando a relação entre os pescadores e as criaturas submersas, com uma personalidade de IA que incorpora a profundidade e a reflexão presentes na obra de Hemingway.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- GPT-4o: Para a geração de contos de pescador, com elementos de realismo mágico e a personalidade do velho pescador de Hemingway.
+- DALL-E: Para criar ilustrações e imagens que complementem os contos.
+- GitHub Actions: Para automatizar o processo de geração e publicação dos contos.
+- Markdown: Para formatar e organizar os contos no repositório do GitHub.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Definição do Tema e Persona**: O tema central é "contos de pescador", com histórias envolventes de realismo mágico e uma IA que assume a personalidade reflexiva e experiente do velho pescador de "O Velho e o Mar".
+2. **Geração de Histórias**: A API do GPT-4o será usada para gerar contos de pescador. Cada conto começa com um prompt que incorpora a sabedoria e a reflexão do velho pescador, garantindo uma narrativa rica em detalhes de pesca e elementos mágicos.
+3. **Criação de Ilustrações**: O modelo DALL-E será utilizado para gerar imagens e ilustrações que acompanhem os contos, proporcionando uma experiência de leitura mais visual e imersiva.
+4. **Automação com GitHub Actions**: GitHub Actions pode sevir para automatizar a publicação dos contos gerados. Por exemplo, cada novo conto gerado pode ser automaticamente adicionado ao repositório.
+5. **Organização e Formatação**: Markdown para formatação dos contos e organização do repositório, criando uma estrutura clara e navegável para os leitores.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 🚀 Resultados esperados
+- **Histórias Geradas**: Uma coleção de contos de pescador, cada um com uma narrativa única e ilustrações correspondentes.
+- **Repositório GitHub**: Um repositório bem-organizado com todos os contos e ilustrações, facilitando a leitura e compartilhamento.
+- **Automação**: Um pipeline automatizado para a geração e publicação de novos contos, demonstrando o uso eficiente de GitHub Actions.
