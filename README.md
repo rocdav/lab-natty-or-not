@@ -31,7 +31,4 @@ Criar algo "natty" (elegante, sofisticado) com IA generativa, como o projeto "Re
 
 ## 📺 Vídeo Demonstrativo
 
-<iframe width="560" height="315" src="https://youtu.be/9n1Jfcs4WV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-[![Assista ao vídeo](https://img.youtube.com/vi/9n1Jfcs4WV8.jpg)](https://youtu.be/9n1Jfcs4WV8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9n1Jfcs4WV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
